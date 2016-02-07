@@ -28,7 +28,7 @@ Co-host on <a href="http://ukgenesis.co.uk/podcasts">http://ukgenesis.co.uk/podc
 
 <a href="http://wpengine.com/2012/05/25/gary-jones/">Finely Tuned Consultant: Gary Jones - WPEngine</a>
 
-<h2>Mentions {#mentions]</h2>
+<h2>Mentions {#mentions}</h2>
 
 <p><a href="http://word-break.com/episode/episode-05-with-ryan-sullivan-and-rob-neu/">Word-Break Show interviewing Ryan Sullivan and Rob Neu</a> - around 48-minute mark.
 <a href="http://www.wpelevation.com/2015/01/episode-65-justin-sternberg/">WP Elevation Episode #65 Justin Sternberg</a> - around 36-minute mark.</p>
@@ -49,7 +49,7 @@ Some references are missing, as I've contributed to each main release branch bet
 * <a href="https://core.trac.wordpress.org/ticket/14045">#14045</a>: Give the menus page an accessibility mode option, like the widgets screen (3.6)
 * <a href="https://core.trac.wordpress.org/ticket/23791">#23791</a>: Missing @param in wp_get_attachment_image() docs (3.6)
 * <a href="https://core.trac.wordpress.org/ticket/23789">#23789</a>: Redundant variables for menu custom link meta box callback (3.6)
-* <a href="https://core.trac.wordpress.org/ticket/18948">#18948</a>: Introduce $wpdb->delete() (3.4)
+* <a href="https://core.trac.wordpress.org/ticket/18948">#18948</a>: Introduce $wpdb-&gt;delete() (3.4)
 * <a href="https://core.trac.wordpress.org/ticket/18886">#18886</a>: $stripteaser documentation incorrect (3.3)
 * <a href="https://core.trac.wordpress.org/ticket/16688">#16688</a>: Inconsistent 'the_title' filter (3.3)
 * <a href="https://core.trac.wordpress.org/ticket/18698">#18698</a>: Use body class in custom background callback (3.3)

@@ -10,34 +10,34 @@ published: true
 ---
 The Genesis and WordPress communities are where I've established myself. Here are my participations and contributions to those communities.
 
-<h2 id="goh">Genesis Office Hours</h2>
+## Genesis Office Hours
 
-<h3 id="goh44">Episode #44: Lost In Translation</h3>
+### Episode #44: Lost In Translation
 
 https://www.youtube.com/watch?v=KCfUSWLEcvc
 
-<h3 id="goh20">Episode #20: The UK Edition</h3>
+### Episode #20: The UK Edition
 
 https://www.youtube.com/watch?v=DDZqEK8bEuc
 
-<h2>UK Genesis Podcast</h2>
+## UK Genesis Podcast
 
-Co-host on <a href="http://ukgenesis.co.uk/podcasts">http://ukgenesis.co.uk/podcasts</a>.
+Co-host on the [UK Genesis Podcast](http://ukgenesis.co.uk/podcasts).
 
-<h2 id="articles">Articles</h2>
+## Articles
 
-<a href="http://wpengine.com/2012/05/25/gary-jones/">Finely Tuned Consultant: Gary Jones - WPEngine</a>
+[Finely Tuned Consultant: Gary Jones - WPEngine](http://wpengine.com/2012/05/25/gary-jones/)
 
-<h2>Mentions {#mentions}</h2>
+## Mentions
 
-<p><a href="http://word-break.com/episode/episode-05-with-ryan-sullivan-and-rob-neu/">Word-Break Show interviewing Ryan Sullivan and Rob Neu</a> - around 48-minute mark.
-<a href="http://www.wpelevation.com/2015/01/episode-65-justin-sternberg/">WP Elevation Episode #65 Justin Sternberg</a> - around 36-minute mark.</p>
+* [Word-Break Show interviewing Ryan Sullivan and Rob Neu](http://word-break.com/episode/episode-05-with-ryan-sullivan-and-rob-neu/) - around 48-minute mark.
+* [WP Elevation Episode #65 Justin Sternberg](http://www.wpelevation.com/2015/01/episode-65-justin-sternberg/) - around 36-minute mark.
 
-<h2 id="wordpress">WordPress Credited Contributions</h2>
+## WordPress Credited Contributions
 
 Some references are missing, as I've contributed to each main release branch between 3.3 and 4.0, and then 4.3 and 4.4.
 
-* <a href="https://core.trac.wordpress.org/ticket/24878">#24878</a>: is_registered_sidebar() (4.4)
+* [#24878](https://core.trac.wordpress.org/ticket/24878): `is_registered_sidebar()` (_4.4_)
 * <a href="https://core.trac.wordpress.org/ticket/26502">#26502</a>: Dashboard Activity dates conditionally need the year (4.4)
 * <a href="https://core.trac.wordpress.org/ticket/33684">#33684</a>: Cheatin' uh?: Update in wp-includes/class-wp-customize-manager.php (4.4)
 * <a href="https://core.trac.wordpress.org/ticket/32735">#32735</a>: Correctly sort translated plugin names in plugin list table (4.3)
@@ -55,9 +55,9 @@ Some references are missing, as I've contributed to each main release branch bet
 * <a href="https://core.trac.wordpress.org/ticket/18698">#18698</a>: Use body class in custom background callback (3.3)
 * <a href="https://core.trac.wordpress.org/ticket/16432">#16432</a>: Add filter to ent2ncr (3.3)</p>
 
-<h2 id="github">Credited Contributions to Projects on GitHub</h2>
+## Credited Contributions to Projects on GitHub
 
-My <a href="https://github.com/GaryJones?tab=repositories">Projects on GitHub</a> are under the Sources tab. These include full WordPress plugins, or library classes for use in themes or plugins.
+My [Projects on GitHub](https://github.com/GaryJones?tab=repositories) are under the Sources tab. These include full WordPress plugins, or library classes for use in themes or plugins.
 
 All of the items below are ones I've contributed code to. Some range from simple documentation fixes up to being a core contributor with commit access to the repo.
 
@@ -141,38 +141,32 @@ All of the items below are ones I've contributed code to. Some range from simple
 
 There are many other projects where I've suggested improvements or reported bugs, but not contributed code.
 
-<h2>Premium Products</h2>
+## Premium Products
 
 Not on public GitHub repos.
 
-<ul>
-<li>Genesis Framework</li>
-<li>All Pro child themes from StudioPress (RTL, work in progress)</li>
-<li><a href="http://demo.cdils.com/utility-pro/">Utility Pro</a>, Genesis child theme</li>
-<li>Forty Two, Genesis child theme</li>
-<li>Various child themes from other authors via theme audits</li>
-<li>WP Rocket</li>
-</ul>
+* Genesis Framework
+* All Pro child themes from StudioPress (RTL, work in progress)
+* [Utility Pro](https://gmj.to/utilitypro), Genesis child theme
+* Forty Two, Genesis child theme
+* Various child themes from other authors via theme audits
+* WP Rocket
 
-<h2 id="first-plugins">First Plugins</h2>
+## First Plugins
 
 I've helped the following users write their first public or custom plugin for WordPress:
 
-<ul>
-<li>Carrie Dils: <a href="https://wordpress.org/plugins/genesis-style-trump/">Genesis Style Trump</a></li>
-<li>Jo Waltham: (custom plugin for client)</li>
-<li>Robin Cornett: <a href="https://github.com/robincornett/send-images-rss">Send Images to RSS</a></li>
-</ul>
+* Carrie Dils: [Genesis Style Trump](https://wordpress.org/plugins/genesis-style-trump/)
+* Jo Waltham: (custom plugin for client)
+* Robin Cornett: [Send Images to RSS](https://github.com/robincornett/send-images-rss)
 
-<h2>Translations</h2>
+## Translations
 
-<ul>
-<li>Validator for en_GB on <a href="https://translate.wordpress.org/locales/en-gb">translate.wordpress.org</a></li>
-<li>Validator for en_GB for <a href="https://translate.yoast.com/languages/en-gb">translate.yoast.com</a></li>
-<li>Validator for en_GB for translate.carriedils.com (since removed)</li>
-</ul>
+* Validator for `en_GB` on [translate.wordpress.org](https://translate.wordpress.org/locales/en-gb)</a>
+* Validator for `en_GB` for [translate.yoast.com](https://translate.yoast.com/languages/en-gb)
+* Validator for `en_GB` for translate.carriedils.com (since removed)
 
-<h2>WordCamp and Conference Attendance</h2>
+## WordCamp and Conference Attendance
 
 <ul>
 <li>WordCamp Portsmouth (UK) 2011</li>
@@ -184,16 +178,14 @@ I've helped the following users write their first public or custom plugin for Wo
 <li>WordCamp London (UK) Mar 2015</li>
 <li>WordCamp Europe (Seville, Spain) Jun 2015</li>
 <li>PHP South Coast Jul 2015</li>
-<li>Planned: WordCamp London (UK) 2016</li>
-<li>Planned: WordCamp Europe (Vienna, Austria) Jun 2016</li>
+<li>Booked: WordCamp London (UK) 2016</li>
+<li>Booked: WordCamp Europe (Vienna, Austria) Jun 2016</li>
 </ul>
 
-<h2>WordPress Meetup</h2>
+## WordPress Meetup
 
-<ul>
-<li>WordPress London regular attendee.</li>
-</ul>
+WordPress London regular attendee.
 
-<h2 id="php">PHP</h2>
+## PHP
 
-Named contributor for <a href="https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc-meta.md#53-contributors">PSR-5: PHPDoc</a>
+Named contributor for [PSR-5: PHPDoc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc-meta.md#53-contributors)</a>

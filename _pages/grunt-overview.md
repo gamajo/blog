@@ -6,12 +6,8 @@ post_date: 2014-12-01 08:33:49
 post_excerpt: ""
 layout: page
 permalink: https://gamajo.com/grunt-overview
-published: false
+published: true
 ---
-Presentation for the Watercooler UK channel of the Genesis Slack community.
-
-Please do NOT publicly share this URL, or that of the live video below!
-
-Please ask any questions via #watercooler-uk channel on Slack.
+This is the raw video I did as a presentation for the Genesis Slack community.
 
 https://www.youtube.com/watch?v=DIdgQvIxia0#t=408

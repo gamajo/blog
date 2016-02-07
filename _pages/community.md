@@ -37,23 +37,23 @@ Co-host on <a href="http://ukgenesis.co.uk/podcasts">http://ukgenesis.co.uk/podc
 
 Some references are missing, as I've contributed to each main release branch between 3.3 and 4.0, and then 4.3 and 4.4.
 
-<p><a href="https://core.trac.wordpress.org/ticket/24878">#24878</a>: is_registered_sidebar() (4.4)
-<a href="https://core.trac.wordpress.org/ticket/26502">#26502</a>: Dashboard Activity dates conditionally need the year (4.4)
-<a href="https://core.trac.wordpress.org/ticket/33684">#33684</a>: Cheatin' uh?: Update in wp-includes/class-wp-customize-manager.php (4.4)
-<a href="https://core.trac.wordpress.org/ticket/32735">#32735</a>: Correctly sort translated plugin names in plugin list table (4.3)
-<a href="https://core.trac.wordpress.org/ticket/28310">#28310</a>: Accessing properties of null returned from get_post() (4.0)
-<a href="https://core.trac.wordpress.org/ticket/26869">#26869</a>: Hook Docs clean up (4.0)
-<a href="https://core.trac.wordpress.org/ticket/27715">#27715</a>: Hook Docs (35): wp-includes/functions.php (3.9)
-<a href="https://core.trac.wordpress.org/ticket/27228">#27228</a>: Consistent translator comment format (3.9)
-<a href="https://core.trac.wordpress.org/ticket/25689">#25689</a>: Notice - undefined variable checksums (3.7.1)
-<a href="https://core.trac.wordpress.org/ticket/14045">#14045</a>: Give the menus page an accessibility mode option, like the widgets screen (3.6)
-<a href="https://core.trac.wordpress.org/ticket/23791">#23791</a>: Missing @param in wp_get_attachment_image() docs (3.6)
-<a href="https://core.trac.wordpress.org/ticket/23789">#23789</a>: Redundant variables for menu custom link meta box callback (3.6)
-<a href="https://core.trac.wordpress.org/ticket/18948">#18948</a>: Introduce $wpdb->delete() (3.4)
-<a href="https://core.trac.wordpress.org/ticket/18886">#18886</a>: $stripteaser documentation incorrect (3.3)
-<a href="https://core.trac.wordpress.org/ticket/16688">#16688</a>: Inconsistent 'the_title' filter (3.3)
-<a href="https://core.trac.wordpress.org/ticket/18698">#18698</a>: Use body class in custom background callback (3.3)
-<a href="https://core.trac.wordpress.org/ticket/16432">#16432</a>: Add filter to ent2ncr (3.3)</p>
+* <a href="https://core.trac.wordpress.org/ticket/24878">#24878</a>: is_registered_sidebar() (4.4)
+* <a href="https://core.trac.wordpress.org/ticket/26502">#26502</a>: Dashboard Activity dates conditionally need the year (4.4)
+* <a href="https://core.trac.wordpress.org/ticket/33684">#33684</a>: Cheatin' uh?: Update in wp-includes/class-wp-customize-manager.php (4.4)
+* <a href="https://core.trac.wordpress.org/ticket/32735">#32735</a>: Correctly sort translated plugin names in plugin list table (4.3)
+* <a href="https://core.trac.wordpress.org/ticket/28310">#28310</a>: Accessing properties of null returned from get_post() (4.0)
+* <a href="https://core.trac.wordpress.org/ticket/26869">#26869</a>: Hook Docs clean up (4.0)
+* <a href="https://core.trac.wordpress.org/ticket/27715">#27715</a>: Hook Docs (35): wp-includes/functions.php (3.9)
+* <a href="https://core.trac.wordpress.org/ticket/27228">#27228</a>: Consistent translator comment format (3.9)
+* <a href="https://core.trac.wordpress.org/ticket/25689">#25689</a>: Notice - undefined variable checksums (3.7.1)
+* <a href="https://core.trac.wordpress.org/ticket/14045">#14045</a>: Give the menus page an accessibility mode option, like the widgets screen (3.6)
+* <a href="https://core.trac.wordpress.org/ticket/23791">#23791</a>: Missing @param in wp_get_attachment_image() docs (3.6)
+* <a href="https://core.trac.wordpress.org/ticket/23789">#23789</a>: Redundant variables for menu custom link meta box callback (3.6)
+* <a href="https://core.trac.wordpress.org/ticket/18948">#18948</a>: Introduce $wpdb->delete() (3.4)
+* <a href="https://core.trac.wordpress.org/ticket/18886">#18886</a>: $stripteaser documentation incorrect (3.3)
+* <a href="https://core.trac.wordpress.org/ticket/16688">#16688</a>: Inconsistent 'the_title' filter (3.3)
+* <a href="https://core.trac.wordpress.org/ticket/18698">#18698</a>: Use body class in custom background callback (3.3)
+* <a href="https://core.trac.wordpress.org/ticket/16432">#16432</a>: Add filter to ent2ncr (3.3)</p>
 
 <h2 id="github">Credited Contributions to Projects on GitHub</h2>
 

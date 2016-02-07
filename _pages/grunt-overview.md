@@ -1,6 +1,6 @@
 ---
 ID: 4964
-post_title: 'Protected: Develop Your Theme With Grunt (Overview)'
+post_title: Develop Your Theme With Grunt (Overview)
 author: Gary Jones
 post_date: 2014-12-01 08:33:49
 post_excerpt: ""

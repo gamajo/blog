@@ -24,6 +24,8 @@ https://www.youtube.com/watch?v=DDZqEK8bEuc
 
 Co-host on the [UK Genesis Podcast](http://ukgenesis.co.uk/podcasts).
 
+[Guest on the UK Genesis Podcast](http://ukgenesis.co.uk/podcasts/gary-jones-episode-22/).
+
 ## Articles
 
 [Finely Tuned Consultant: Gary Jones - WPEngine](http://wpengine.com/2012/05/25/gary-jones/)
@@ -38,22 +40,22 @@ Co-host on the [UK Genesis Podcast](http://ukgenesis.co.uk/podcasts).
 Some references are missing, as I've contributed to each main release branch between 3.3 and 4.0, and then 4.3 and 4.4.
 
 * [#24878](https://core.trac.wordpress.org/ticket/24878): `is_registered_sidebar()` (_4.4_)
-* <a href="https://core.trac.wordpress.org/ticket/26502">#26502</a>: Dashboard Activity dates conditionally need the year (4.4)
-* <a href="https://core.trac.wordpress.org/ticket/33684">#33684</a>: Cheatin' uh?: Update in wp-includes/class-wp-customize-manager.php (4.4)
-* <a href="https://core.trac.wordpress.org/ticket/32735">#32735</a>: Correctly sort translated plugin names in plugin list table (4.3)
-* <a href="https://core.trac.wordpress.org/ticket/28310">#28310</a>: Accessing properties of null returned from get_post() (4.0)
-* <a href="https://core.trac.wordpress.org/ticket/26869">#26869</a>: Hook Docs clean up (4.0)
-* <a href="https://core.trac.wordpress.org/ticket/27715">#27715</a>: Hook Docs (35): wp-includes/functions.php (3.9)
-* <a href="https://core.trac.wordpress.org/ticket/27228">#27228</a>: Consistent translator comment format (3.9)
-* <a href="https://core.trac.wordpress.org/ticket/25689">#25689</a>: Notice - undefined variable checksums (3.7.1)
-* <a href="https://core.trac.wordpress.org/ticket/14045">#14045</a>: Give the menus page an accessibility mode option, like the widgets screen (3.6)
-* <a href="https://core.trac.wordpress.org/ticket/23791">#23791</a>: Missing @param in wp_get_attachment_image() docs (3.6)
-* <a href="https://core.trac.wordpress.org/ticket/23789">#23789</a>: Redundant variables for menu custom link meta box callback (3.6)
-* <a href="https://core.trac.wordpress.org/ticket/18948">#18948</a>: Introduce $wpdb-&gt;delete() (3.4)
-* <a href="https://core.trac.wordpress.org/ticket/18886">#18886</a>: $stripteaser documentation incorrect (3.3)
-* <a href="https://core.trac.wordpress.org/ticket/16688">#16688</a>: Inconsistent 'the_title' filter (3.3)
-* <a href="https://core.trac.wordpress.org/ticket/18698">#18698</a>: Use body class in custom background callback (3.3)
-* <a href="https://core.trac.wordpress.org/ticket/16432">#16432</a>: Add filter to ent2ncr (3.3)</p>
+* [#26502](https://core.trac.wordpress.org/ticket/26502): Dashboard Activity dates conditionally need the year (4.4)
+* [#33684](https://core.trac.wordpress.org/ticket/33684): Cheatin' uh?: Update in wp-includes/class-wp-customize-manager.php (4.4)
+* [#32735](https://core.trac.wordpress.org/ticket/32735): Correctly sort translated plugin names in plugin list table (4.3)
+* [#28310](https://core.trac.wordpress.org/ticket/28310): Accessing properties of null returned from get_post() (4.0)
+* [#26869](https://core.trac.wordpress.org/ticket/26869): Hook Docs clean up (4.0)
+* [#27715](https://core.trac.wordpress.org/ticket/27715): Hook Docs (35): wp-includes/functions.php (3.9)
+* [#27228](https://core.trac.wordpress.org/ticket/27228): Consistent translator comment format (3.9)
+* [#25689](https://core.trac.wordpress.org/ticket/25689): Notice - undefined variable checksums (3.7.1)
+* [#14045](https://core.trac.wordpress.org/ticket/14045): Give the menus page an accessibility mode option, like the widgets screen (3.6)
+* [#23791](https://core.trac.wordpress.org/ticket/23791): Missing @param in wp_get_attachment_image() docs (3.6)
+* [#23789](https://core.trac.wordpress.org/ticket/23789): Redundant variables for menu custom link meta box callback (3.6)
+* [#18948](https://core.trac.wordpress.org/ticket/18948): Introduce $wpdb-&gt;delete() (3.4)
+* [#18886](https://core.trac.wordpress.org/ticket/18886): $stripteaser documentation incorrect (3.3)
+* [#16688](https://core.trac.wordpress.org/ticket/16688): Inconsistent 'the_title' filter (3.3)
+* [#18698](https://core.trac.wordpress.org/ticket/18698): Use body class in custom background callback (3.3)
+* [#16432](https://core.trac.wordpress.org/ticket/16432): Add filter to ent2ncr (3.3)</p>
 
 ## Credited Contributions to Projects on GitHub
 
@@ -61,83 +63,81 @@ My [Projects on GitHub](https://github.com/GaryJones?tab=repositories) are under
 
 All of the items below are ones I've contributed code to. Some range from simple documentation fixes up to being a core contributor with commit access to the repo.
 
-<ul>
-<li><a href="https://github.com/affiliatewp/AffiliateWP">AffiliateWP</a></li>
-<li><a href="https://github.com/johnbillion/allow-duplicate-slugs">Allow Duplicate Slugs</a></li>
-<li><a href="https://github.com/cftp/babble">Babble</a></li>
-<li><a href="https://github.com/Dinius/Brain.fm-Desktop-Client">Brain.fm Desktop Client</a></li>
-<li><a href="https://github.com/JohnLauber/bourbon-genesis">bourbon-genesis</a></li>
-<li><a href="https://github.com/metarheinmain/camptix-payment-banktransfer">CampTix Payment Bank Transfer</a></li>
-<li><a href="https://github.com/dseguy/clearPHP">clearPHP</a></li>
-<li><a href="https://github.com/WebDevStudios/CLI-Cheat-Sheet">CLI Cheat Sheet</a></li>
-<li><a href="https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress">Custom Metaboxes and Fields for WordPress (CMB)</a></li>
-<li><a href="https://github.com/Veraxus/wp-list-table-example/">Custom WP List Table Example</a>
-<li><a href="https://github.com/billerickson/EA-Genesis-Child">EA Genesis Child</a></li>
-<li><a href="https://github.com/easydigitaldownloads/Easy-Digital-Downloads">Easy Digital Downloads</a></li>
-<li><a href="https://github.com/devinsays/edd-account-helpers">EDD Account Helpers</a></li>
-<li><a href="https://github.com/whitetail/fawn">Fawn</a></li>
-<li><a href="https://github.com/FlagshipWP/compass">Flagship Compass theme</a> + all themes forked from it, like <a href="https://flagshipwp.com/showcase-photography-theme/">Exposure</a>.</li>
-<li><a href="https://github.com/billerickson/Genesis-404-Page">Genesis 404 Page</a> (props)</li>
-<li><a href="https://github.com/RRWD/genesis-accessible">Genesis Accessible</a> (feedback)</li>
-<li><a href="https://github.com/kraftbj/genesis-enews-extended">Genesis eNews Extended</a></li>
-<li><a href="https://github.com/mikejhale/genesis-footer-links-nofollow">Genesis Footer Links No Follow</a></li>
-<li><a href="https://github.com/defries/Genesis-Prose-Exporter">Genesis Prose Exporter</a></li>
-<li><a href="https://github.com/gregrickaby/genesis-sample">Genesis Sample with Sass</a></li>
-<li><a href="https://github.com/copyblogger/genesis-simple-sidebars">Genesis Simple Sidebars</a></li>
-<li><a href="https://github.com/mattbanks/Genesis-Starter-Child-Theme">Genesis Starter Child Theme (Matt Banks)</a></li>
-<li><a href="https://github.com/bradyvercher/gistpress">GistPress</a></li>
-<li><a href="https://github.com/afragen/github-updater">GitHub Updater</a></li>
-<li><a href="https://github.com/gobrenix/gobrenix.com">gobrenix.com</a></li>
-<li><a href="https://github.com/thatryan/gravity-forms-sass">Gravity Forms Sass</a></li>
-<li><a href="https://github.com/cedaro/grunt-wp-css">grunt-wp-css</a></li>
-<li><a href="https://github.com/blazersix/grunt-wp-i18n">grunt-wp-i18n</a></li>
-<li><a href="https://github.com/10up/grunt-wp-theme">grunt-wp-theme</a></li>
-<li><a href="https://github.com/devinsays/instant-content">Instant Content</a></li>
-<li><a href="https://github.com/kraftbj/is-jetpack-in-dev-mode">Is Jetpack in Dev Mode</a></li>
-<li><a href="https://github.com/bradpotter/microdata-manager">Microdata Manager</a></li>
-<li><a href="https://github.com/bueltge/wordpress-multisite-enhancements">Multisite Enhancements</a></li>
-<li><a href="https://github.com/jscs-dev/node-jscs">Node JSCS</a></li>
-<li><a href="https://github.com/xwp/wp-option-usage-checker">Option Usage Checker</a></li>
-<li><a href="https://github.com/tommcfarlin/page-template-info">Page Template Info</a></li>
-<li><a href="https://github.com/Vinai/pandocfilters-php">Pandoc Filters PHP</a></li>
-<li><a href="https://github.com/squizlabs/PHP_CodeSniffer">PHP_CodeSniffer</a></li>
-<li><a href="https://github.com/banago/PHPloy">PHPloy</a></li>
-<li><a href="https://github.com/marc-mabe/php-enum">php-enum</a></li>
-<li><a href="https://github.com/php-vcr/phpunit-testlistener-vcr">phpunit-testlistener-vcr</a></li>
-<li><a href="https://github.com/philsturgeon/phpversions.info">phpversions.info</a></li>
-<li><a href="https://github.com/nb/wordpress-piglatin">Pig Latin</a></li>
-<li><a href="https://github.com/bradyvercher/plugin-toggle">Plugin Toggle</a></li>
-<li><a href="https://github.com/devinsays/portfolio-post-type">Portfolio Post Type</a></li>
-<li><a href="https://github.com/scribu/wp-posts-to-posts">Posts to Posts</a></li>
-<li><a href="https://github.com/pippinsplugins/pw-sample-template-loader-plugin">PW Sample Template Loader Plugin</a></li>
-<li><a href="https://github.com/krogsgard/really-simple-series">Really Simple Series</a></li>
-<li><a href="https://github.com/yoavf/RTL-Tester">RTL Tester</a></li>
-<li><a href="https://github.com/robincornett/send-images-rss">Send Images to RSS</a></li>
-<li><a href="https://github.com/wp-shortcake/shortcake/">Shortcake</a></li>
-<li><a href="https://github.com/michaeldfoley/sbcg">South Brooklyn Children's Garden</a></li>
-<li><a href="https://github.com/stylelint/stylelint-config-wordpress">Stylelint Config WordPress</a></li>
-<li><a href="https://github.com/spadgos/sublime-jsdocs">Sublime JSDocs</a></li>
-<li><a href="https://github.com/purplefish32/sublime-text-2-wordpress">Sublime Text 2 WordPress</a></li>
-<li><a href="https://github.com/thomasgriffin/TGM-Plugin-Activation">TGM Plugin Activation</a></li>
-<li><a href="https://github.com/tommcfarlin/user-comment-permissions">User Comments Permissions</a></li>
-<li><a href="https://github.com/Varying-Vagrant-Vagrants/VVV">Varying Vagrant Vagrants</a></li>
-<li><a href="https://github.com/woothemes/woocommerce">WooCommerce</a></li>
-<li><a href="https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate">WordPress Plugin Boilerplate</a></li>
-<li><a href="https://github.com/Yoast/wordpress-seo">WordPress SEO</a></li>
-<li><a href="https://github.com/mattbanks/WordPress-Starter-Theme">WordPress Starter Theme (Matt Banks)</a></li>
-<li><a href="https://github.com/WebDevStudios/WordPress-Widgets-Refresh">WordPress Widgets Refresh</a></li>
-<li><a href="https://github.com/leewillis77/e-commerce-mailcheck">WP Cart Mailcheck</a></li>
-<li><a href="https://github.com/norcross/wp-comment-notes">WP Comment Notes</a></li>
-<li><a href="https://github.com/wpsitecare/wp-featherlight">WP Featherlight</a></li>
-<li><a href="https://github.com/rmccue/WP-Parser">WP Parser</a></li>
-<li><a href="https://github.com/xwp/wp-plugin-dev-lib">WP Plugin Dev Lib</a></li>
-<li><a href="https://github.com/mikejolley/wp-post-series">WP Post Series</a></li>
-<li><a href="https://github.com/wpsitecare/sitecare-grunt-config-loader">WP Site Care Grunt Config Loader</a></li>
-<li><a href="https://github.com/manovotny/wptest">WP Test</a></li>
-<li><a href="https://github.com/10up/wp_mock">wp-mock</a></li>
-<li><a href="https://github.com/WPupdatePHP/wp-update-php">WPupdatePHP</a></li>
-<li><a href="https://github.com/WPZOO/grunt">WPZOO Grunt</a></li>
-</ul>
+* [AffiliateWP](https://github.com/affiliatewp/AffiliateWP)
+* [Allow Duplicate Slugs](https://github.com/johnbillion/allow-duplicate-slugs)
+* [Babble](https://github.com/cftp/babble)
+* [Brain.fm Desktop Client](https://github.com/Dinius/Brain.fm-Desktop-Client)
+* [bourbon-genesis](https://github.com/JohnLauber/bourbon-genesis)
+* [CampTix Payment Bank Transfer](https://github.com/metarheinmain/camptix-payment-banktransfer)
+* [clearPHP](https://github.com/dseguy/clearPHP)
+* [CLI Cheat Sheet](https://github.com/WebDevStudios/CLI-Cheat-Sheet)
+* [Custom Metaboxes and Fields for WordPress (CMB)](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress)
+* [Custom WP List Table Example](https://github.com/Veraxus/wp-list-table-example/)
+* [EA Genesis Child](https://github.com/billerickson/EA-Genesis-Child)
+* [Easy Digital Downloads](https://github.com/easydigitaldownloads/Easy-Digital-Downloads)
+* [EDD Account Helpers](https://github.com/devinsays/edd-account-helpers)
+* [Fawn](https://github.com/whitetail/fawn)
+* [Flagship Compass theme](https://github.com/FlagshipWP/compass) + all themes forked from it, like [Exposure](https://flagshipwp.com/showcase-photography-theme/).
+* [Genesis 404 Page](https://github.com/billerickson/Genesis-404-Page) (props)
+* [Genesis Accessible](https://github.com/RRWD/genesis-accessible) (feedback)
+* [Genesis eNews Extended](https://github.com/kraftbj/genesis-enews-extended)
+* [Genesis Footer Links No Follow](https://github.com/mikejhale/genesis-footer-links-nofollow)
+* [Genesis Prose Exporter](https://github.com/defries/Genesis-Prose-Exporter)
+* [Genesis Sample with Sass](https://github.com/gregrickaby/genesis-sample)
+* [Genesis Simple Sidebars](https://github.com/copyblogger/genesis-simple-sidebars)
+* [Genesis Starter Child Theme (Matt Banks)](https://github.com/mattbanks/Genesis-Starter-Child-Theme)
+* [GistPress](https://github.com/bradyvercher/gistpress)
+* [GitHub Updater](https://github.com/afragen/github-updater)
+* [gobrenix.com](https://github.com/gobrenix/gobrenix.com)
+* [Gravity Forms Sass](https://github.com/thatryan/gravity-forms-sass)
+* [grunt-wp-css](https://github.com/cedaro/grunt-wp-css)
+* [grunt-wp-i18n](https://github.com/blazersix/grunt-wp-i18n)
+* [grunt-wp-theme](https://github.com/10up/grunt-wp-theme)
+* [Instant Content](https://github.com/devinsays/instant-content)
+* [Is Jetpack in Dev Mode](https://github.com/kraftbj/is-jetpack-in-dev-mode)
+* [Microdata Manager](https://github.com/bradpotter/microdata-manager)
+* [Multisite Enhancements](https://github.com/bueltge/wordpress-multisite-enhancements)
+* [Node JSCS](https://github.com/jscs-dev/node-jscs)
+* [Option Usage Checker](https://github.com/xwp/wp-option-usage-checker)
+* [Page Template Info](https://github.com/tommcfarlin/page-template-info)
+* [Pandoc Filters PHP](https://github.com/Vinai/pandocfilters-php)
+* [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+* [PHPloy](https://github.com/banago/PHPloy)
+* [php-enum](https://github.com/marc-mabe/php-enum)
+* [phpunit-testlistener-vcr](https://github.com/php-vcr/phpunit-testlistener-vcr)
+* [phpversions.info](https://github.com/philsturgeon/phpversions.info)
+* [Pig Latin](https://github.com/nb/wordpress-piglatin)
+* [Plugin Toggle](https://github.com/bradyvercher/plugin-toggle)
+* [Portfolio Post Type](https://github.com/devinsays/portfolio-post-type)
+* [Posts to Posts](https://github.com/scribu/wp-posts-to-posts)
+* [PW Sample Template Loader Plugin](https://github.com/pippinsplugins/pw-sample-template-loader-plugin)
+* [Really Simple Series](https://github.com/krogsgard/really-simple-series)
+* [RTL Tester](https://github.com/yoavf/RTL-Tester)
+* [Send Images to RSS](https://github.com/robincornett/send-images-rss)
+* [Shortcake](https://github.com/wp-shortcake/shortcake/)
+* [South Brooklyn Children's Garden](https://github.com/michaeldfoley/sbcg)
+* [Stylelint Config WordPress](https://github.com/stylelint/stylelint-config-wordpress)
+* [Sublime JSDocs](https://github.com/spadgos/sublime-jsdocs)
+* [Sublime Text 2 WordPress](https://github.com/purplefish32/sublime-text-2-wordpress)
+* [TGM Plugin Activation](https://github.com/thomasgriffin/TGM-Plugin-Activation)
+* [User Comments Permissions](https://github.com/tommcfarlin/user-comment-permissions)
+* [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV)
+* [WooCommerce](https://github.com/woothemes/woocommerce)
+* [WordPress Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate)
+* [WordPress SEO](https://github.com/Yoast/wordpress-seo)
+* [WordPress Starter Theme (Matt Banks)](https://github.com/mattbanks/WordPress-Starter-Theme)
+* [WordPress Widgets Refresh](https://github.com/WebDevStudios/WordPress-Widgets-Refresh)
+* [WP Cart Mailcheck](https://github.com/leewillis77/e-commerce-mailcheck)
+* [WP Comment Notes](https://github.com/norcross/wp-comment-notes)
+* [WP Featherlight](https://github.com/wpsitecare/wp-featherlight)
+* [WP Parser](https://github.com/rmccue/WP-Parser)
+* [WP Plugin Dev Lib](https://github.com/xwp/wp-plugin-dev-lib)
+* [WP Post Series](https://github.com/mikejolley/wp-post-series)
+* [WP Site Care Grunt Config Loader](https://github.com/wpsitecare/sitecare-grunt-config-loader)
+* [WP Test](https://github.com/manovotny/wptest)
+* [wp-mock](https://github.com/10up/wp_mock)
+* [WPupdatePHP](https://github.com/WPupdatePHP/wp-update-php)
+* [WPZOO Grunt](https://github.com/WPZOO/grunt)
 
 There are many other projects where I've suggested improvements or reported bugs, but not contributed code.
 
@@ -168,19 +168,17 @@ I've helped the following users write their first public or custom plugin for Wo
 
 ## WordCamp and Conference Attendance
 
-<ul>
-<li>WordCamp Portsmouth (UK) 2011</li>
-<li>WordCamp Chicago (USA) 2011</li>
-<li>WordCamp Europe (Leiden, Netherlands) 2013</li>
-<li>WordCamp London (UK) 2013</li>
-<li>WordCamp Europe (Sofia, Bulgaria) 2014</li>
-<li>WordCamp Birmingham (UK) Feb 2015</li>
-<li>WordCamp London (UK) Mar 2015</li>
-<li>WordCamp Europe (Seville, Spain) Jun 2015</li>
-<li>PHP South Coast Jul 2015</li>
-<li>Booked: WordCamp London (UK) 2016</li>
-<li>Booked: WordCamp Europe (Vienna, Austria) Jun 2016</li>
-</ul>
+* WordCamp Portsmouth (UK) 2011
+* WordCamp Chicago (USA) 2011
+* WordCamp Europe (Leiden, Netherlands) 2013
+* WordCamp London (UK) 2013
+* WordCamp Europe (Sofia, Bulgaria) 2014
+* WordCamp Birmingham (UK) Feb 2015
+* WordCamp London (UK) Mar 2015
+* WordCamp Europe (Seville, Spain) Jun 2015
+* PHP South Coast Jul 2015
+* Booked: WordCamp London (UK) 2016 (Speaker)
+* Booked: WordCamp Europe (Vienna, Austria) Jun 2016
 
 ## WordPress Meetup
 

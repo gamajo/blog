@@ -74,7 +74,6 @@ All of the items below are ones I've contributed code to. Some range from simple
 * [CLI Cheat Sheet](https://github.com/WebDevStudios/CLI-Cheat-Sheet)
 * [Custom Metaboxes and Fields for WordPress (CMB)](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress)
 * [Custom WP List Table Example](https://github.com/Veraxus/wp-list-table-example/)
-* [EA Genesis Child](https://github.com/billerickson/EA-Genesis-Child)
 * [Easy Digital Downloads](https://github.com/easydigitaldownloads/Easy-Digital-Downloads)
 * [EDD Account Helpers](https://github.com/devinsays/edd-account-helpers)
 * [Fawn](https://github.com/whitetail/fawn)
@@ -121,7 +120,6 @@ All of the items below are ones I've contributed code to. Some range from simple
 * [Sublime JSDocs](https://github.com/spadgos/sublime-jsdocs)
 * [Sublime Text 2 WordPress](https://github.com/purplefish32/sublime-text-2-wordpress)
 * [TGM Plugin Activation](https://github.com/thomasgriffin/TGM-Plugin-Activation)
-* [User Comments Permissions](https://github.com/tommcfarlin/user-comment-permissions)
 * [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV)
 * [WooCommerce](https://github.com/woothemes/woocommerce)
 * [WordPress Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate)
@@ -142,14 +140,16 @@ All of the items below are ones I've contributed code to. Some range from simple
 
 There are many other projects where I've suggested improvements or reported bugs, but not contributed code.
 
-## Premium Products
+## Premium or Private Products
 
 Not on public GitHub repos.
 
+* EA Genesis Child
 * Genesis Framework
 * All Pro child themes from StudioPress (RTL, work in progress)
 * [Utility Pro](https://gmj.to/utilitypro), Genesis child theme
 * Forty Two, Genesis child theme
+* User Comments Permissions
 * Various child themes from other authors via theme audits
 * WP Rocket
 
@@ -163,8 +163,8 @@ I've helped the following users write their first public or custom plugin for Wo
 
 ## Translations
 
-* Validator for `en_GB` on [translate.wordpress.org](https://translate.wordpress.org/locales/en-gb)</a>
-* Validator for `en_GB` for [translate.yoast.com](https://translate.yoast.com/languages/en-gb)
+* Validator for `en_GB` on [translate.wordpress.org](https://translate.wordpress.org/locale/en-gb)</a>
+* Validator for `en_GB` for [translate.yoast.com](https://translate.yoast.com/gp/languages/en-gb/)
 * Validator for `en_GB` for translate.carriedils.com (since removed)
 
 ## WordCamp and Conference Attendance
@@ -178,7 +178,7 @@ I've helped the following users write their first public or custom plugin for Wo
 * WordCamp London (UK) Mar 2015
 * WordCamp Europe (Seville, Spain) Jun 2015
 * PHP South Coast Jul 2015
-* Booked: WordCamp London (UK) 2016 (Speaker)
+* Booked: WordCamp London (UK) 2016 (Contributor Day Organiser, Speaker, Volunteer)
 * Booked: WordCamp Europe (Vienna, Austria) Jun 2016
 
 ## WordPress Meetup

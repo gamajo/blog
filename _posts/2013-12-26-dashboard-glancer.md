@@ -1,8 +1,6 @@
 ---
 ID: 2113
-post_title: >
-  How to Add Post Type Counts to the
-  WordPress Dashboard
+post_title: 'Post Type Counts &#8211; How to Add Them to the WordPress Dashboard'
 author: Gary Jones
 post_date: 2013-12-26 13:29:44
 post_excerpt: ""
@@ -22,10 +20,10 @@ fsb_social_google:
 fsb_social_linkedin:
   - "0"
 ---
-<p>When a plugin adds one or more custom post types (CPTs), a nice little addition is to give a count of the entries on the dashboard, as a summary, where the number of posts and pages is already listed. Doing it for one CPT is easy enough; doing it for multiple CPTs is an obvious case for re-using code, and doing it for CPTs across multiple plugins  makes a case for a separate library. Enter <em>Gamajo Dashboard Glancer</em>.
-<!--more--></p>
+When a plugin adds one or more custom post types (CPTs), a nice little addition is to give post type counts of the entries on the dashboard, as a summary, where the number of posts and pages is already listed. Doing it for one CPT is easy enough; doing it for multiple CPTs is an obvious case for re-using code, and doing it for CPTs across multiple plugins  makes a case for a separate library. Enter <em>Gamajo Dashboard Glancer</em>.
+<!--more-->
 
-<h2>The Gamajo Dashboard Glancer Library</h2>
+<h2>Show Post Type Counts With The Gamajo Dashboard Glancer Library</h2>
 
 The <a href="https://github.com/GaryJones/Gamajo-Dashboard-Glancer">Gamajo Dashboard Glancer</a> project centres around a single class, <code>Gamajo_Dashboard_Glancer</code>, which can be included within your CPT plugin. You then instantiate this class, and register post types to it, when you want to show the counts.
 
@@ -41,6 +39,6 @@ The project also includes a second class that extends the first, to provide the 
 
 With a small bit of styling (not included within the class), you can make your CPT icons appear next to the counts as well:
 
-<img src="https://gamajo.com/wp-content/uploads/at-glance-widget.png" alt="Screenshot of the At a Glance widget, showing several extra custom post types registered" width="454" height="184" class="aligncenter img-border" />
+<img src="https://gamajo.com/wp-content/uploads/at-glance-widget.png" alt="Screenshot of the At a Glance widget, showing several extra custom post types registered with the post type counts" width="454" height="184" class="aligncenter img-border" />
 
 <a href="https://github.com/GaryJones/Gamajo-Dashboard-Glancer">Get Gamajo Dashboard Glancer class on GitHub</a>.

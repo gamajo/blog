@@ -114,6 +114,7 @@ All of the items below are ones I've contributed code to. Some range from simple
 * [Really Simple Series](https://github.com/krogsgard/really-simple-series)
 * [RTL Tester](https://github.com/yoavf/RTL-Tester)
 * [Send Images to RSS](https://github.com/robincornett/send-images-rss)
+* [SimplePie](https://github.com/simplepie/simplepie)
 * [Shortcake](https://github.com/wp-shortcake/shortcake/)
 * [South Brooklyn Children's Garden](https://github.com/michaeldfoley/sbcg)
 * [Stylelint Config WordPress](https://github.com/stylelint/stylelint-config-wordpress)

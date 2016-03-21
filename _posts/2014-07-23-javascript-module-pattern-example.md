@@ -18,7 +18,7 @@ yourls_shorturl:
   - http://gmj.to/q1
 ---
 One of my favourite technical authors Tom McFarlin recently published a piece about how to <a href="http://tommcfarlin.com/improve-javascript-in-wordpress/">Improve JavaScript in WordPress</a>. In it he introduces the object pattern as a way to namespace code, to avoid clashes just like we do in PHP with actual namespaces, classes or function name prefixes.
-
+ 
 It's certainly better than a whole load of individual functions, or worse, a whole load of anonymous functions directly bound to events. But could we do better?
 
 <h2>The Module Pattern</h2>
@@ -34,7 +34,7 @@ Let's look at a before and after example I recently did for a client. The import
 Here's the original code:
 
 https://gist.github.com/GaryJones/6f9ac01ea090890726a6
-
+ 
 We have everything wrapped in a jQuery document ready event (Line 1). A responsive menu icon is added (line 5), and this has an anonymous callback added to the click event (lines 7-9).
 
 There's a few variables declared (line 13) before doing some callback on the window load and resize events. We don't know what functionality, until we've read the whole function (or the comment above the binding). We're hiding an element, and then assigning some widths and heights to those variables we declared outside of this function.

@@ -39,6 +39,7 @@ Co-host on the [UK Genesis Podcast](http://ukgenesis.co.uk/podcasts).
 
 Some references are missing, as I've contributed to each main release branch between 3.3 and 4.0, and then 4.3 and 4.4.
 
+* [#21616](https://core.trac.wordpress.org/ticket/21616): `add-textdomain doesn't conform to WP coding standards` (_meta_)
 * [#24878](https://core.trac.wordpress.org/ticket/24878): `is_registered_sidebar()` (_4.4_)
 * [#26502](https://core.trac.wordpress.org/ticket/26502): Dashboard Activity dates conditionally need the year (4.4)
 * [#33684](https://core.trac.wordpress.org/ticket/33684): Cheatin' uh?: Update in wp-includes/class-wp-customize-manager.php (4.4)

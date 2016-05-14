@@ -68,6 +68,7 @@ All of the items below are ones I've contributed code to. Some range from simple
 * [Allow Duplicate Slugs](https://github.com/johnbillion/allow-duplicate-slugs)
 * [Babble](https://github.com/cftp/babble)
 * [Brain.fm Desktop Client](https://github.com/Dinius/Brain.fm-Desktop-Client)
+* [Bright Nucleus Settings Component](https://github.com/brightnucleus/settings)
 * [Bright Nucleus Shortcodes Component](https://github.com/brightnucleus/shortcodes)
 * [bourbon-genesis](https://github.com/JohnLauber/bourbon-genesis)
 * [CampTix Payment Bank Transfer](https://github.com/metarheinmain/camptix-payment-banktransfer)

@@ -138,6 +138,7 @@ All of the items below are ones I've contributed code to. Some range from simple
 * [WP Site Care Grunt Config Loader](https://github.com/wpsitecare/sitecare-grunt-config-loader)
 * [WP Test](https://github.com/manovotny/wptest)
 * [wp-mock](https://github.com/10up/wp_mock)
+* [WPGear.org](https://github.com/wecodemore/WordPress-Gear)
 * [WPupdatePHP](https://github.com/WPupdatePHP/wp-update-php)
 * [WPZOO Grunt](https://github.com/WPZOO/grunt)
 

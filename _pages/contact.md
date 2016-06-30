@@ -8,5 +8,6 @@ layout: page
 permalink: https://gamajo.com/contact
 published: true
 force_ssl:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 ---
+[gravityform id="1" title="true" description="true"]

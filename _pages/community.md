@@ -98,6 +98,7 @@ All of the items below are ones I've contributed code to. Some range from simple
 * [Instant Content](https://github.com/devinsays/instant-content)
 * [Is Jetpack in Dev Mode](https://github.com/kraftbj/is-jetpack-in-dev-mode)
 * [Microdata Manager](https://github.com/bradpotter/microdata-manager)
+* [MultiLingualPress](https://github.com/inpsyde/multilingual-press)
 * [Multisite Enhancements](https://github.com/bueltge/wordpress-multisite-enhancements)
 * [Node JSCS](https://github.com/jscs-dev/node-jscs)
 * [Option Usage Checker](https://github.com/xwp/wp-option-usage-checker)

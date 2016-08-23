@@ -110,6 +110,7 @@ All of the items below are ones I've contributed code to. Some range from simple
 * [phpunit-testlistener-vcr](https://github.com/php-vcr/phpunit-testlistener-vcr)
 * [phpversions.info](https://github.com/philsturgeon/phpversions.info)
 * [Pig Latin](https://github.com/nb/wordpress-piglatin)
+* [Phpro SOAP-client](https://github.com/phpro/soap-client)
 * [Plugin Toggle](https://github.com/bradyvercher/plugin-toggle)
 * [Portfolio Post Type](https://github.com/devinsays/portfolio-post-type)
 * [Posts to Posts](https://github.com/scribu/wp-posts-to-posts)

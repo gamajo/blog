@@ -76,6 +76,7 @@ All of the items below are ones I've contributed code to. Some range from simple
 * [CLI Cheat Sheet](https://github.com/WebDevStudios/CLI-Cheat-Sheet)
 * [Custom Metaboxes and Fields for WordPress (CMB)](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress)
 * [Custom WP List Table Example](https://github.com/Veraxus/wp-list-table-example/)
+* [EA Share Count](https://github.com/jaredatch/EA-Share-Count)
 * [Easy Digital Downloads](https://github.com/easydigitaldownloads/Easy-Digital-Downloads)
 * [EDD Account Helpers](https://github.com/devinsays/edd-account-helpers)
 * [Fawn](https://github.com/whitetail/fawn)

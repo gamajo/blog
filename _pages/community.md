@@ -37,8 +37,9 @@ Co-host on the [UK Genesis Podcast](http://ukgenesis.co.uk/podcasts).
 
 ## WordPress Credited Contributions
 
-Some references are missing, as I've contributed to each main release branch between 3.3 and 4.0, and then 4.3 and 4.4.
+Some references are missing, as I've contributed to each releases 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 4.0, 4.2, 4.3, 4.4, 4.5, 4.6 and 4.7.
 
+* [#37871](https://core.trac.wordpress.org/ticket/37871): Clarify Login Label (Email Address) (_4.7_)
 * [#34737](https://core.trac.wordpress.org/ticket/34737): Add Facebook oEmbed Support (_4.7_)
 * [#21616](https://core.trac.wordpress.org/ticket/21616): `add-textdomain doesn't conform to WP coding standards` (_meta_, _4.5?_)
 * [#24878](https://core.trac.wordpress.org/ticket/24878): `is_registered_sidebar()` (_4.4_)

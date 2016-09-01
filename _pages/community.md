@@ -81,6 +81,7 @@ All of the items below are ones I've contributed code to. Some range from simple
 * [EA Share Count](https://github.com/jaredatch/EA-Share-Count)
 * [Easy Digital Downloads](https://github.com/easydigitaldownloads/Easy-Digital-Downloads)
 * [EDD Account Helpers](https://github.com/devinsays/edd-account-helpers)
+* [Events Manager for WordPress](https://github.com/forsitemedia/events-manager-for-wp)
 * [Fawn](https://github.com/whitetail/fawn)
 * [Flagship Compass theme](https://github.com/FlagshipWP/compass) + all themes forked from it, like [Exposure](https://flagshipwp.com/showcase-photography-theme/).
 * [Genesis 404 Page](https://github.com/billerickson/Genesis-404-Page) (props)

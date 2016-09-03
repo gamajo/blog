@@ -37,28 +37,33 @@ Co-host on the [UK Genesis Podcast](http://ukgenesis.co.uk/podcasts).
 
 ## WordPress Credited Contributions
 
+### WordPress Core
 Some references are missing, as I've contributed to each releases 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 4.0, 4.2, 4.3, 4.4, 4.5, 4.6 and 4.7.
 
 * [#37871](https://core.trac.wordpress.org/ticket/37871): Clarify Login Label (Email Address) (_4.7_)
 * [#34737](https://core.trac.wordpress.org/ticket/34737): Add Facebook oEmbed Support (_4.7_)
-* [#21616](https://core.trac.wordpress.org/ticket/21616): `add-textdomain doesn't conform to WP coding standards` (_meta_, _4.5?_)
+* [#21616](https://core.trac.wordpress.org/ticket/21616): `add-textdomain` doesn't conform to WP coding standards (_4.5_)
 * [#24878](https://core.trac.wordpress.org/ticket/24878): `is_registered_sidebar()` (_4.4_)
 * [#26502](https://core.trac.wordpress.org/ticket/26502): Dashboard Activity dates conditionally need the year (4.4)
 * [#33684](https://core.trac.wordpress.org/ticket/33684): Cheatin' uh?: Update in wp-includes/class-wp-customize-manager.php (4.4)
 * [#32735](https://core.trac.wordpress.org/ticket/32735): Correctly sort translated plugin names in plugin list table (4.3)
-* [#28310](https://core.trac.wordpress.org/ticket/28310): Accessing properties of null returned from get_post() (4.0)
+* [#28310](https://core.trac.wordpress.org/ticket/28310): Accessing properties of null returned from `get_post()` (4.0)
 * [#26869](https://core.trac.wordpress.org/ticket/26869): Hook Docs clean up (4.0)
-* [#27715](https://core.trac.wordpress.org/ticket/27715): Hook Docs (35): wp-includes/functions.php (3.9)
+* [#27715](https://core.trac.wordpress.org/ticket/27715): Hook Docs (35): `wp-includes/functions.php` (3.9)
 * [#27228](https://core.trac.wordpress.org/ticket/27228): Consistent translator comment format (3.9)
 * [#25689](https://core.trac.wordpress.org/ticket/25689): Notice - undefined variable checksums (3.7.1)
 * [#14045](https://core.trac.wordpress.org/ticket/14045): Give the menus page an accessibility mode option, like the widgets screen (3.6)
-* [#23791](https://core.trac.wordpress.org/ticket/23791): Missing @param in wp_get_attachment_image() docs (3.6)
+* [#23791](https://core.trac.wordpress.org/ticket/23791): Missing `@param` in `wp_get_attachment_image()` docs (3.6)
 * [#23789](https://core.trac.wordpress.org/ticket/23789): Redundant variables for menu custom link meta box callback (3.6)
-* [#18948](https://core.trac.wordpress.org/ticket/18948): Introduce $wpdb-&gt;delete() (3.4)
-* [#18886](https://core.trac.wordpress.org/ticket/18886): $stripteaser documentation incorrect (3.3)
-* [#16688](https://core.trac.wordpress.org/ticket/16688): Inconsistent 'the_title' filter (3.3)
+* [#18948](https://core.trac.wordpress.org/ticket/18948): Introduce `$wpdb->;delete()` (3.4)
+* [#18886](https://core.trac.wordpress.org/ticket/18886): `$stripteaser` documentation incorrect (3.3)
+* [#16688](https://core.trac.wordpress.org/ticket/16688): Inconsistent `the_title` filter (3.3)
 * [#18698](https://core.trac.wordpress.org/ticket/18698): Use body class in custom background callback (3.3)
-* [#16432](https://core.trac.wordpress.org/ticket/16432): Add filter to ent2ncr (3.3)
+* [#16432](https://core.trac.wordpress.org/ticket/16432): Add filter to `ent2ncr` (3.3)
+
+### WordPress Meta
+* [#1911](https://meta.trac.wordpress.org/ticket/1911): Credits API: Prefer HTTPS for External Libraries links
+* [#1365](https://meta.trac.wordpress.org/ticket/1365): Improve project overview page _(See [[2071]](https://meta.trac.wordpress.org/changeset/2071))_
 
 ## Credited Contributions to Projects on GitHub
 
@@ -173,23 +178,25 @@ I've helped the following users write their first public or custom plugin for Wo
 
 ## Translations
 
-* Validator for `en_GB` on [translate.wordpress.org](https://translate.wordpress.org/locale/en-gb)</a>
-* Validator for `en_GB` for [translate.yoast.com](https://translate.yoast.com/gp/languages/en-gb/)
-* Validator for `en_GB` for translate.carriedils.com (since removed)
+* General Translation Editor for `en_GB` on [translate.wordpress.org](https://translate.wordpress.org/locale/en-gb)</a>
+* General Translation Editor for `en_GB` for [translate.yoast.com](https://translate.yoast.com/gp/languages/en-gb/)
+* General Translation Editor for `en_GB` for translate.carriedils.com (since removed)
 
 ## WordCamp and Conference Attendance
 
-* WordCamp Portsmouth (UK) 2011
-* WordCamp Chicago (USA) 2011
-* WordCamp Europe (Leiden, Netherlands) 2013
-* WordCamp London (UK) 2013
-* WordCamp Europe (Sofia, Bulgaria) 2014
-* WordCamp Birmingham (UK) Feb 2015
-* WordCamp London (UK) Mar 2015
-* WordCamp Europe (Seville, Spain) Jun 2015
-* PHP South Coast Jul 2015
-* Booked: WordCamp London (UK) 2016 (Contributor Day Organiser, Speaker, Volunteer)
-* Booked: WordCamp Europe (Vienna, Austria) Jun 2016
+* [WordCamp Portsmouth](http://2011.portsmouth.wordcampuk.org/) (UK) Jul 2011
+* [WordCamp Chicago](https://2011.chicago.wordcamp.org/) (USA) Jul 2011
+* [WordCamp Europe](https://2013.europe.wordcamp.org/) (Leiden, Netherlands) Oct 2013
+* [WordCamp London](https://2013.london.wordcamp.org/) (UK) Nov 2013
+* [WordCamp Europe](https://2014.europe.wordcamp.org/) (Sofia, Bulgaria) 2014
+* [WordCamp Birmingham](https://2015.birminghamuk.wordcamp.org/) (UK) Feb 2015
+* [WordCamp London](https://2015.london.wordcamp.org/) (UK) Mar 2015
+* [WordCamp Europe](https://2015.europe.wordcamp.org/) (Seville, Spain) Jun 2015
+* [PHP South Coast](https://2015.phpsouthcoast.co.uk/) (Portsmouth, UK) Jul 2015
+* [WordCamp London](https://2016.london.wordcamp.org/) (UK) Apr 2016 (_Organiser and Speaker_)
+* [WordCamp Europe](https://2016.europe.wordcamp.org/) (Vienna, Austria) Jun 2016
+* [WordCamp Brighton](https://2016.brighton.wordcamp.org/) (UK) Jul 2016
+* Booked: [WordCamp Manchester](https://2016.manchester.wordcamp.org/) (UK) Oct 2016
 
 ## WordPress Meetup
 

@@ -38,15 +38,16 @@ Co-host on the [UK Genesis Podcast](http://ukgenesis.co.uk/podcasts).
 ## WordPress Credited Contributions
 
 ### WordPress Core
-Some references are missing, as I've contributed to each releases 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 4.0, 4.2, 4.3, 4.4, 4.5, 4.6 and 4.7.
+Some references are missing, as I've contributed to the following releases 3.3, 3.4, 3.5, 3.6, 3.7.1, 3.8, 3.9, 4.0, 4.2, 4.3, 4.4, 4.5, 4.6 and 4.7.
 
-* [#37871](https://core.trac.wordpress.org/ticket/37871): Clarify Login Label (Email Address) (_4.7_)
-* [#34737](https://core.trac.wordpress.org/ticket/34737): Add Facebook oEmbed Support (_4.7_)
-* [#21616](https://core.trac.wordpress.org/ticket/21616): `add-textdomain` doesn't conform to WP coding standards (_4.5_)
-* [#24878](https://core.trac.wordpress.org/ticket/24878): `is_registered_sidebar()` (_4.4_)
+* [#37871](https://core.trac.wordpress.org/ticket/37871): Clarify Login Label (Email Address) (4.7)
+* [#34737](https://core.trac.wordpress.org/ticket/34737): Add Facebook oEmbed Support (4.7)
+* [#21616](https://core.trac.wordpress.org/ticket/21616): `add-textdomain` doesn't conform to WP coding standards (4.5)
+* [#24878](https://core.trac.wordpress.org/ticket/24878): `is_registered_sidebar()` (4.4)
 * [#26502](https://core.trac.wordpress.org/ticket/26502): Dashboard Activity dates conditionally need the year (4.4)
 * [#33684](https://core.trac.wordpress.org/ticket/33684): Cheatin' uh?: Update in wp-includes/class-wp-customize-manager.php (4.4)
 * [#32735](https://core.trac.wordpress.org/ticket/32735): Correctly sort translated plugin names in plugin list table (4.3)
+* [#20513](https://core.trac.wordpress.org/ticket/20513): Refactor $wp_scripts init checking code (4.2)
 * [#28310](https://core.trac.wordpress.org/ticket/28310): Accessing properties of null returned from `get_post()` (4.0)
 * [#26869](https://core.trac.wordpress.org/ticket/26869): Hook Docs clean up (4.0)
 * [#27715](https://core.trac.wordpress.org/ticket/27715): Hook Docs (35): `wp-includes/functions.php` (3.9)

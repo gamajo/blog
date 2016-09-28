@@ -38,7 +38,7 @@ Co-host on the [UK Genesis Podcast](http://ukgenesis.co.uk/podcasts).
 ## WordPress Credited Contributions
 
 ### WordPress Core
-Some references are missing, as I've contributed to the following releases 3.3, 3.4, 3.5, 3.6, 3.7.1, 3.8, 3.9, 4.0, 4.2, 4.3, 4.4, 4.5, 4.6 and 4.7.
+Some references are missing, as I've contributed to the following releases 3.3, 3.4, 3.5, 3.6, 3.7.1, 3.8, 3.9, 4.0, 4.2, 4.3, 4.4, 4.5 and 4.7.
 
 * [#37871](https://core.trac.wordpress.org/ticket/37871): Clarify Login Label (Email Address) (4.7)
 * [#34737](https://core.trac.wordpress.org/ticket/34737): Add Facebook oEmbed Support (4.7)

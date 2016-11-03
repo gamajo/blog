@@ -198,7 +198,9 @@ I've helped the following users write their first public or custom plugin for Wo
 * [WordCamp London](https://2016.london.wordcamp.org/) (UK) Apr 2016 (_Organiser and Speaker_)
 * [WordCamp Europe](https://2016.europe.wordcamp.org/) (Vienna, Austria) Jun 2016
 * [WordCamp Brighton](https://2016.brighton.wordcamp.org/) (UK) Jul 2016
-* Booked: [WordCamp Manchester](https://2016.manchester.wordcamp.org/) (UK) Oct 2016
+* [WordCamp Manchester](https://2016.manchester.wordcamp.org/) (UK) Oct 2016
+* [WordCamp London](https://2017.london.wordcamp.org/) (UK) Mar 2017 (_Organiser_)
+* Would love to go to: [Freelancers Conference](http://freelancersconference.com/) (Columbus, Ohio) Apr 2017
 
 ## WordPress Meetup
 

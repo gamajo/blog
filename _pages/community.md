@@ -72,6 +72,7 @@ My [Projects on GitHub][30] are under the Sources tab. These include full WordPr
 
 *   [AffiliateWP][31] 
 *   [Allow Duplicate Slugs][32] 
+*   [AMP for WordPress](https://github.com/Automattic/amp-wp)
 *   [Babble][33] 
 *   [Brain.fm Desktop Client][34] 
 *   [Bright Nucleus Settings Component][35] 

@@ -1,11 +1,11 @@
 ---
 ID: 13
-post_title: Thank You For Subscribing
+post_title: Your Subscription is Pending
 author: Gary Jones
 post_date: 2013-09-07 12:55:04
 post_excerpt: ""
 layout: page
-permalink: https://gamajo.com/subscribed
+permalink: https://gamajo.com/subscription-pending
 published: true
 ---
 Your subscription to the Gamajo Tech Newsletter is nearly done!

@@ -13,8 +13,6 @@ post_excerpt: >
 layout: post
 permalink: https://gamajo.com/split-sidebar-genesis
 published: true
-yourls_shorturl:
-  - http://gmj.to/pr
 fsb_social_twitter:
   - "9"
 fsb_social_facebook:
@@ -25,12 +23,15 @@ fsb_show_social:
   - "0"
 fsb_social_linkedin:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
-<div class="alert alert-info"><p>This tutorial was originally posted to http://code.garyjones.co.uk on 2011-08-12. The comments have been carried across to this site. It has been updated here with a more detailed description and improved code.</p></div> 
+<div class="alert alert-info">This tutorial was originally posted to http://code.garyjones.co.uk on 2011-08-12. The comments have been carried across to this site. It has been updated here with a more detailed description and improved code.</p></div>
 
-Visually splitting the primary sidebar in a <a href="http://genesis-theme-framework.com/">Genesis Framework</a> child theme into two smaller sidebars is a powerful design feature. It allows prominent important areas to apparently span a double width, before breaking down into narrower columns for other widget content.
+<p>Visually splitting the primary sidebar in a <a href="http://genesis-theme-framework.com/">Genesis Framework</a> child theme into two smaller sidebars is a powerful design feature. It allows prominent important areas to apparently span a double width, before breaking down into narrower columns for other widget content.
 
 <h2>Get A Split Sidebar</h2>
+
 If you're thinking "How did I get a widget to span two sidebars?" or "What CSS do I use to split a sidebar?", then you're over-thinking the problem. We don't actually split a sidebar, but we introduce two new widget areas that are completely independent, and then just display them below the main one instead. Kudos to <a href="http://briangardner.com/">Brian Gardner</a> for originally suggesting this approach after I was trying to recreate the Custom Content Box above the two sidebars as it appeared in Thesis.
 
 By using new widget areas, users get clear guidance on where their widget will appear without having to work out if the new widget will appear in the normal sidebar, or in one of the split sidebar areas.
@@ -67,4 +68,5 @@ http://gist.github.com/GaryJones/1698319#file_style.css
 If you need to target the left sidebar you can use the <code>.split-sidebars > .widget-area:first-child {}</code> selector, and <code>.split-sidebars > .widget-area:last-child {}</code> for the right sidebar.
 
 <h2>Conclusion</h2>
+
 You can now register new widget areas, and output them above or below the primary and secondary sidebars, giving a "split sidebar" appearance. If you have any questions, let me know in the comments.

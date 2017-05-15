@@ -30,7 +30,7 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 
 ## WordPress Credited Contributions
 
-### WordPress Core Some references are missing, as I've contributed to each releases 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 4.0, 4.2, 4.3, 4.4, 4.5, 4.6 and 4.7. 
+### WordPress Core Some references are missing, as I've contributed to the following releases: 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 4.0, 4.2, 4.3, 4.4, 4.5, and 4.7. 
 
 *   [#29958][11]: Collapse menu keyboard accessibility (*4\.7*)
 *   [#37871][12]: Clarify Login Label (Email Address) (*4\.7*)

@@ -195,7 +195,7 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 *   Booked: [WordCamp Edinburgh][145] (UK) July 2017
 *   [Invited][146]: [Profitable Developer Bootcamp][147] (mentor at a week-long event) October 2017
 
-## WordPress Meetup
+## WordPress Meetup {#conferences}
 
 *   WordPress London co-organiser, occasional speaker and regular attendee.
 

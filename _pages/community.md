@@ -190,16 +190,18 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 *   [WordCamp Manchester][140] (UK) Oct 2016
 *   [WordCamp London][141] (UK) Mar 2017 (*Organiser*)
 *   [WordCamp Bristol][142] (UK) May 2017
-*   Booked: [PHP South Coast][143] (Portsmouth, UK) June 2017
-*   Booked: [WordCamp Europe][144] (Paris, France) July 2017
+*   [PHP South Coast][143] (Portsmouth, UK) June 2017
+*   Booked: [WordCamp Europe][144] (Paris, France) June 2017
+*   Booked: [WordCamp Edinburgh][145] (UK) July 2017
+*   [Invited][146]: [Profitable Developer Bootcamp][147] (mentor at a week-long event) October 2017
 
 ## WordPress Meetup
 
-*   WordPress London co-organiser, occasional speaker and regular attendee. 
+*   WordPress London co-organiser, occasional speaker and regular attendee.
 
 ## PHP
 
-*   Named contributor for [PSR-5: PHPDoc][145]</a>
+*   Named contributor for [PSR-5: PHPDoc][148]</a>
 
  [1]: https://rethink.fm/podcast/episode-13-passion-quality-gary-jones/
  [2]: http://ukgenesis.co.uk/podcasts/gary-jones-episode-22/
@@ -345,4 +347,7 @@ The Genesis and WordPress communities are where I've established myself. Here ar
  [142]: https://2017.bristol.wordcamp.org/
  [143]: https://2017.phpsouthcoast.co.uk/
  [144]: https://2017.europe.wordcamp.org/
- [145]: https://freelancersconference.com/
+ [145]: https://2017.edinburgh.wordcamp.org/
+ [146]: https://profitabledeveloperbootcamp.knowthecode.io/gary-jones-joins-bootcamp-mentor
+ [147]: https://profitabledeveloperbootcamp.knowthecode.io/
+ [148]: https://freelancersconference.com/

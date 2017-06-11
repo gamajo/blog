@@ -173,7 +173,7 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 *   General Translation Editor for `en_GB` for [translate.yoast.com][127]
 *   General Translation Editor for `en_GB` for translate.carriedils.com (since removed)
 
-## WordCamp and Conference Attendance
+## WordCamp and Conference Attendance {#conferences}
 
 *   [WordCamp Portsmouth][128] (UK) Jul 2011
 *   [WordCamp Chicago][129] (USA) Jul 2011
@@ -195,7 +195,7 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 *   Booked: [WordCamp Edinburgh][145] (UK) July 2017
 *   [Invited][146]: [Profitable Developer Bootcamp][147] (mentor at a week-long event) October 2017
 
-## WordPress Meetup {#conferences}
+## WordPress Meetup
 
 *   WordPress London co-organiser, occasional speaker and regular attendee.
 

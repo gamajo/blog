@@ -2,11 +2,11 @@
 ID: 4943
 post_title: Community
 author: Gary Jones
-post_date: 2014-12-10 09:35:54
 post_excerpt: ""
 layout: page
 permalink: https://gamajo.com/community
 published: true
+post_date: 2014-12-10 09:35:54
 ---
 The Genesis and WordPress communities are where I've established myself. Here are my participations and contributions to those communities. 
 ## Podcasts
@@ -191,9 +191,10 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 *   [WordCamp London][141] (UK) Mar 2017 (*Organiser*)
 *   [WordCamp Bristol][142] (UK) May 2017
 *   [PHP South Coast][143] (Portsmouth, UK) June 2017
-*   Booked: [WordCamp Europe][144] (Paris, France) June 2017
-*   Booked: [WordCamp Edinburgh][145] (UK) July 2017
-*   [Invited][146]: [Profitable Developer Bootcamp][147] (mentor at a week-long event) October 2017
+*   [WordCamp Europe][144] (Paris, France) June 2017
+*   [WordCamp Edinburgh][145] (UK) July 2017
+*   Booked: [WordCamp Manchester][146] (UK) July 2017 (*Volunteer*)
+<!--<li><a href="https://profitabledeveloperbootcamp.knowthecode.io/gary-jones-joins-bootcamp-mentor">Invited</a>: <a href="https://profitabledeveloperbootcamp.knowthecode.io/">Profitable Developer Bootcamp</a> (mentor at a week-long event) October 2017</li>-->
 
 ## WordPress Meetup
 
@@ -201,7 +202,7 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 
 ## PHP
 
-*   Named contributor for [PSR-5: PHPDoc][148]</a>
+*   Named contributor for [PSR-5: PHPDoc][147]</a>
 
  [1]: https://rethink.fm/podcast/episode-13-passion-quality-gary-jones/
  [2]: http://ukgenesis.co.uk/podcasts/gary-jones-episode-22/
@@ -348,6 +349,5 @@ The Genesis and WordPress communities are where I've established myself. Here ar
  [143]: https://2017.phpsouthcoast.co.uk/
  [144]: https://2017.europe.wordcamp.org/
  [145]: https://2017.edinburgh.wordcamp.org/
- [146]: https://profitabledeveloperbootcamp.knowthecode.io/gary-jones-joins-bootcamp-mentor
- [147]: https://profitabledeveloperbootcamp.knowthecode.io/
- [148]: https://freelancersconference.com/
+ [146]: https://2017.manchester.wordcamp.org/
+ [147]: https://freelancersconference.com/

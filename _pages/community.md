@@ -195,7 +195,6 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 *   [WordCamp Edinburgh][145] (UK) July 2017
 *   Booked: [WordCamp Manchester][146] (UK) October 2017 (*Volunteer*)
 *   Booked: [WordCamp London][147] (UK) Apr 2018 (*Organiser*)
-<!--<li><a href="https://profitabledeveloperbootcamp.knowthecode.io/gary-jones-joins-bootcamp-mentor">Invited</a>: <a href="https://profitabledeveloperbootcamp.knowthecode.io/">Profitable Developer Bootcamp</a> (mentor at a week-long event) October 2017</li>-->
 
 ## WordPress Meetup
 

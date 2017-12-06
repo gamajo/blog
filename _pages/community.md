@@ -8,7 +8,8 @@ permalink: https://gamajo.com/community
 published: true
 post_date: 2014-12-10 09:35:54
 ---
-The Genesis and WordPress communities are where I've established myself. Here are my participations and contributions to those communities. 
+The Genesis and WordPress communities are where I've established myself. Here are my participations and contributions to those communities.
+
 ## Podcasts
 
 *   [Episode 13: A Passion for Quality with Gary Jones][1] (Rethink.fm)
@@ -30,7 +31,7 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 
 ## WordPress Credited Contributions
 
-### WordPress Core Some references are missing, as I've contributed to the following releases: 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 4.0, 4.2, 4.3, 4.4, 4.5, and 4.7. 
+### WordPress Core Some references are missing, as I've contributed to the following releases: 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 4.0, 4.2, 4.3, 4.4, 4.5, and 4.7.
 
 *   [#29958][11]: Collapse menu keyboard accessibility (*4\.7*)
 *   [#37871][12]: Clarify Login Label (Email Address) (*4\.7*)
@@ -59,96 +60,9 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 *   [#1911][32]: Credits API: Prefer HTTPS for External Libraries links
 *   [#1365][33]: Improve project overview page *(See [[2071]][34])*
 
-## Credited Contributions to Projects on GitHub My 
+## Credited Contributions to Projects on GitHub My
 
-[Projects on GitHub][35] are under the Sources tab. These include full WordPress plugins, or library classes for use in themes or plugins. All of the items below are ones I've contributed code to. Some range from simple documentation fixes up to being a core contributor with commit access to the repo. 
-*   [AffiliateWP][36] 
-*   [Allow Duplicate Slugs][37] 
-*   [AMP for WordPress][38]
-*   [Babble][39] 
-*   [Brain.fm Desktop Client][40] 
-*   [Bright Nucleus Settings Component][41] 
-*   [Bright Nucleus Shortcodes Component][42] 
-*   [bourbon-genesis][43] 
-*   [CampTix Payment Bank Transfer][44] 
-*   [clearPHP][45] 
-*   [CLI Cheat Sheet][46] 
-*   [Custom Metaboxes and Fields for WordPress (CMB)][47] 
-*   [Custom WP List Table Example][48] 
-*   [EA Share Count][49] 
-*   [Easy Digital Downloads][50] 
-*   [EDD Account Helpers][51] 
-*   [Events Manager for WordPress][52] 
-*   [Fawn][53] 
-*   [Flagship Compass theme][54] + all themes forked from it, like [Exposure][55]. 
-*   [Genesis 404 Page][56] (props) 
-*   [Genesis Accessible][57] (feedback) 
-*   [Genesis eNews Extended][58] 
-*   [Genesis Footer Links No Follow][59] 
-*   [Genesis Prose Exporter][60] 
-*   [Genesis Sample with Sass][61] 
-*   [Genesis Simple Sidebars][62] 
-*   [Genesis Starter Child Theme (Matt Banks)][63] 
-*   [GistPress][64] 
-*   [GitHub Updater][65] 
-*   [gobrenix.com][66] 
-*   [Gravity Forms Sass][67] 
-*   [Gravity Forms Sticky Form][68] 
-*   [grunt-wp-css][69] 
-*   [grunt-wp-i18n][70] 
-*   [grunt-wp-theme][71] 
-*   [Instant Content][72] 
-*   [Is Jetpack in Dev Mode][73] 
-*   [Microdata Manager][74] 
-*   [MultiLingualPress][75] 
-*   [Multisite Enhancements][76] 
-*   [Node JSCS][77] 
-*   [Option Usage Checker][78] 
-*   [Page Template Info][79] 
-*   [Pandoc Filters PHP][80] 
-*   [PHP_CodeSniffer][81] 
-*   [PHPloy][82] 
-*   [php-enum][83] 
-*   [phpunit-testlistener-vcr][84] 
-*   [phpversions.info][85] 
-*   [Pig Latin][86] 
-*   [Phpro SOAP-client][87] 
-*   [Plugin Toggle][88] 
-*   [Plumber][89] 
-*   [Portfolio Post Type][90] 
-*   [Posts to Posts][91] 
-*   [PW Sample Template Loader Plugin][92] 
-*   [Really Simple Series][93] 
-*   [RTL Tester][94] 
-*   [sebastianbergmann/git][95] 
-*   [Send Images to RSS][96] 
-*   [Shortcake][97] 
-*   [SimplePie][98] 
-*   [South Brooklyn Children's Garden][99] 
-*   [Stylelint Config WordPress][100] 
-*   [Sublime JSDocs][101] 
-*   [Sublime Text 2 WordPress][102] 
-*   [TGM Plugin Activation][103] 
-*   [Varying Vagrant Vagrants][104] 
-*   [VVV Custom site template][105] 
-*   [VVV Utilities][106] 
-*   [WooCommerce][107] 
-*   [WordPress Plugin Boilerplate][108] 
-*   [WordPress SEO][109] 
-*   [WordPress Starter Theme (Matt Banks)][110] 
-*   [WordPress Widgets Refresh][111] 
-*   [WP Cart Mailcheck][112] 
-*   [WP Comment Notes][113] 
-*   [WP Featherlight][114] 
-*   [WP Parser][115] 
-*   [WP Plugin Dev Lib][116] 
-*   [WP Post Series][117] 
-*   [WP Site Care Grunt Config Loader][118] 
-*   [WP Test][119] 
-*   [wp-mock][120] 
-*   [WPGear.org][121] 
-*   [WPupdatePHP][122] 
-*   [WPZOO Grunt][123]  There are many other projects where I've suggested improvements or reported bugs, but not contributed code. 
+[Projects on GitHub][35] are under the Sources tab. These include full WordPress plugins, or library classes for use in themes or plugins. All of the items below are ones I've contributed code to. Some range from simple documentation fixes up to being a core contributor with commit access to the repo. * [AffiliateWP][36] * [Allow Duplicate Slugs][37] * [AMP for WordPress][38] * [Babble][39] * [Brain.fm Desktop Client][40] * [Bright Nucleus Settings Component][41] * [Bright Nucleus Shortcodes Component][42] * [bourbon-genesis][43] * [CampTix Payment Bank Transfer][44] * [clearPHP][45] * [CLI Cheat Sheet][46] * [Custom Metaboxes and Fields for WordPress (CMB)][47] * [Custom WP List Table Example][48] * [EA Share Count][49] * [Easy Digital Downloads][50] * [EDD Account Helpers][51] * [Events Manager for WordPress][52] * [Fawn][53] * [Flagship Compass theme][54] + all themes forked from it, like [Exposure][55]. * [Genesis 404 Page][56] (props) * [Genesis Accessible][57] (feedback) * [Genesis eNews Extended][58] * [Genesis Footer Links No Follow][59] * [Genesis Prose Exporter][60] * [Genesis Sample with Sass][61] * [Genesis Simple Sidebars][62] * [Genesis Starter Child Theme (Matt Banks)][63] * [GistPress][64] * [GitHub Updater][65] * [gobrenix.com][66] * [Gravity Forms Sass][67] * [Gravity Forms Sticky Form][68] * [grunt-wp-css][69] * [grunt-wp-i18n][70] * [grunt-wp-theme][71] * [Instant Content][72] * [Is Jetpack in Dev Mode][73] * [Microdata Manager][74] * [MultiLingualPress][75] * [Multisite Enhancements][76] * [Node JSCS][77] * [Option Usage Checker][78] * [Page Template Info][79] * [Pandoc Filters PHP][80] * [PHP_CodeSniffer][81] * [PHPloy][82] * [php-enum][83] * [phpunit-testlistener-vcr][84] * [phpversions.info][85] * [Pig Latin][86] * [Phpro SOAP-client][87] * [Plugin Toggle][88] * [Plumber][89] * [Portfolio Post Type][90] * [Posts to Posts][91] * [PW Sample Template Loader Plugin][92] * [Really Simple Series][93] * [RTL Tester][94] * [sebastianbergmann/git][95] * [Send Images to RSS][96] * [Shortcake][97] * [SimplePie][98] * [South Brooklyn Children's Garden][99] * [Stylelint Config WordPress][100] * [Sublime JSDocs][101] * [Sublime Text 2 WordPress][102] * [TGM Plugin Activation][103] * [Varying Vagrant Vagrants][104] * [VVV Custom site template][105] * [VVV Utilities][106] * [WooCommerce][107] * [WordPress Plugin Boilerplate][108] * [WordPress SEO][109] * [WordPress Starter Theme (Matt Banks)][110] * [WordPress Widgets Refresh][111] * [WP Cart Mailcheck][112] * [WP Comment Notes][113] * [WP Featherlight][114] * [WP Parser][115] * [WP Dev Lib][116] * [WP Post Series][117] * [WP Site Care Grunt Config Loader][118] * [WP Test][119] * [wp-mock][120] * [WPGear.org][121] * [WPupdatePHP][122] * [WPZOO Grunt][123] There are many other projects where I've suggested improvements or reported bugs, but not contributed code.
 
 ## Premium or Private Products Not on public GitHub repos.
 
@@ -205,13 +119,13 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 *   Named contributor for [PSR-5: PHPDoc][148]</a>
 
  [1]: https://rethink.fm/podcast/episode-13-passion-quality-gary-jones/
- [2]: http://ukgenesis.co.uk/podcasts/gary-jones-episode-22/
+ [2]: https://ukgenesis.co.uk/podcasts/gary-jones-episode-22/
  [3]: https://officehours.fm/podcast/44-2/
  [4]: https://officehours.fm/podcast/20-2/
- [5]: http://ukgenesis.co.uk/podcasts
+ [5]: https://ukgenesis.co.uk/podcasts
  [6]: http://word-break.com/episode/episode-05-with-ryan-sullivan-and-rob-neu/
- [7]: http://www.wpelevation.com/2015/01/episode-65-justin-sternberg/
- [8]: https://wpengine.com/2012/05/25/gary-jones/
+ [7]: https://www.wpelevation.com/2015/01/episode-65-justin-sternberg/
+ [8]: https://wpengine.com/blog/gary-jones/
  [9]: https://www.cloudways.com/blog/gary-jones-interview/
  [10]: https://www.studiopress.com/gary-jones-genesis-developer/
  [11]: https://core.trac.wordpress.org/ticket/29958
@@ -242,7 +156,7 @@ The Genesis and WordPress communities are where I've established myself. Here ar
  [36]: https://github.com/affiliatewp/AffiliateWP
  [37]: https://github.com/johnbillion/allow-duplicate-slugs
  [38]: https://github.com/Automattic/amp-wp
- [39]: https://github.com/cftp/babble
+ [39]: https://github.com/Automattic/babble
  [40]: https://github.com/Dinius/Brain.fm-Desktop-Client
  [41]: https://github.com/brightnucleus/settings
  [42]: https://github.com/brightnucleus/shortcodes
@@ -256,7 +170,7 @@ The Genesis and WordPress communities are where I've established myself. Here ar
  [50]: https://github.com/easydigitaldownloads/Easy-Digital-Downloads
  [51]: https://github.com/devinsays/edd-account-helpers
  [52]: https://github.com/forsitemedia/events-manager-for-wp
- [53]: https://github.com/whitetail/fawn
+ [53]: https://github.com/josephfusco/fawn
  [54]: https://github.com/FlagshipWP/compass
  [55]: https://flagshipwp.com/showcase-photography-theme/
  [56]: https://github.com/billerickson/Genesis-404-Page
@@ -273,12 +187,12 @@ The Genesis and WordPress communities are where I've established myself. Here ar
  [67]: https://github.com/thatryan/gravity-forms-sass
  [68]: https://github.com/13pixlar/gravity-forms-sticky-form
  [69]: https://github.com/cedaro/grunt-wp-css
- [70]: https://github.com/blazersix/grunt-wp-i18n
+ [70]: https://github.com/cedaro/grunt-wp-i18n
  [71]: https://github.com/10up/grunt-wp-theme
  [72]: https://github.com/devinsays/instant-content
  [73]: https://github.com/kraftbj/is-jetpack-in-dev-mode
  [74]: https://github.com/bradpotter/microdata-manager
- [75]: https://github.com/inpsyde/multilingual-press
+ [75]: https://github.com/inpsyde/MultilingualPress
  [76]: https://github.com/bueltge/wordpress-multisite-enhancements
  [77]: https://github.com/jscs-dev/node-jscs
  [78]: https://github.com/xwp/wp-option-usage-checker
@@ -288,10 +202,10 @@ The Genesis and WordPress communities are where I've established myself. Here ar
  [82]: https://github.com/banago/PHPloy
  [83]: https://github.com/marc-mabe/php-enum
  [84]: https://github.com/php-vcr/phpunit-testlistener-vcr
- [85]: https://github.com/philsturgeon/phpversions.info
+ [85]: https://github.com/phpversions/phpversions.info
  [86]: https://github.com/nb/wordpress-piglatin
  [87]: https://github.com/phpro/soap-client
- [88]: https://github.com/bradyvercher/plugin-toggle
+ [88]: https://github.com/cedaro/plugin-toggle
  [89]: https://github.com/jamonserrano/plumber-sass
  [90]: https://github.com/devinsays/portfolio-post-type
  [91]: https://github.com/scribu/wp-posts-to-posts
@@ -303,26 +217,26 @@ The Genesis and WordPress communities are where I've established myself. Here ar
  [97]: https://github.com/wp-shortcake/shortcake/
  [98]: https://github.com/simplepie/simplepie
  [99]: https://github.com/michaeldfoley/sbcg
- [100]: https://github.com/stylelint/stylelint-config-wordpress
+ [100]: https://github.com/WordPress-Coding-Standards/stylelint-config-wordpress
  [101]: https://github.com/spadgos/sublime-jsdocs
  [102]: https://github.com/purplefish32/sublime-text-2-wordpress
- [103]: https://github.com/thomasgriffin/TGM-Plugin-Activation
+ [103]: https://github.com/TGMPA/TGM-Plugin-Activation
  [104]: https://github.com/Varying-Vagrant-Vagrants/VVV
  [105]: https://github.com/Varying-Vagrant-Vagrants/custom-site-template
  [106]: https://github.com/Varying-Vagrant-Vagrants/vvv-utilities
- [107]: https://github.com/woothemes/woocommerce
- [108]: https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate
+ [107]: https://github.com/woocommerce/woocommerce
+ [108]: https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
  [109]: https://github.com/Yoast/wordpress-seo
  [110]: https://github.com/mattbanks/WordPress-Starter-Theme
  [111]: https://github.com/WebDevStudios/WordPress-Widgets-Refresh
  [112]: https://github.com/leewillis77/e-commerce-mailcheck
  [113]: https://github.com/norcross/wp-comment-notes
  [114]: https://github.com/wpsitecare/wp-featherlight
- [115]: https://github.com/rmccue/WP-Parser
- [116]: https://github.com/xwp/wp-plugin-dev-lib
+ [115]: https://github.com/WordPress/phpdoc-parser
+ [116]: https://github.com/xwp/wp-dev-lib
  [117]: https://github.com/mikejolley/wp-post-series
  [118]: https://github.com/wpsitecare/sitecare-grunt-config-loader
- [119]: https://github.com/manovotny/wptest
+ [119]: https://github.com/poststatus/wptest
  [120]: https://github.com/10up/wp_mock
  [121]: https://github.com/wecodemore/WordPress-Gear
  [122]: https://github.com/WPupdatePHP/wp-update-php
@@ -331,7 +245,7 @@ The Genesis and WordPress communities are where I've established myself. Here ar
  [125]: https://wordpress.org/plugins/genesis-style-trump/
  [126]: https://translate.wordpress.org/locale/en-gb
  [127]: https://translate.yoast.com/gp/languages/en-gb/
- [128]: http://2011.portsmouth.wordcampuk.org/
+ [128]: https://2011.portsmouth.wordcampuk.org/
  [129]: https://2011.chicago.wordcamp.org/
  [130]: https://2013.europe.wordcamp.org/
  [131]: https://2013.london.wordcamp.org/

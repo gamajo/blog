@@ -29,5 +29,5 @@ One of my favourite technical authors Tom McFarlin recently published a piece ab
  [1]: https://tommcfarlin.com/improve-javascript-in-wordpress/
  [2]: https://yuiblog.com/blog/2007/06/12/module-pattern/
  [3]: http://benalman.com/news/2010/11/immediately-invoked-function-expression/
- [4]: https://make.wordpress.org/core/handbook/coding-standards/javascript/
+ [4]: https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/
  [5]: https://snook.ca/archives/javascript/no-love-for-module-pattern

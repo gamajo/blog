@@ -35,5 +35,5 @@ I really like using Git and GitHub to develop my plugins and contribute to other
  [2]: https://github.com/radishconcepts/WordPress-GitHub-Plugin-Updater
  [3]: https://github.com/afragen/github-updater
  [4]: https://codex.wordpress.org/Filesystem_API
- [5]: https://gamajo.wpengine.com/wp-content/uploads/github-updater-rename.png
+ [5]: https://gamajo.com/wp-content/uploads/github-updater-rename.png
  [6]: https://github.com/afragen/github-updater/blob/master/README.md

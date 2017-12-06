@@ -15,9 +15,9 @@ post_date: 2014-02-17 13:39:27
 
  [1]: https://genesis-theme-framework.com/
  [2]: https://gamajo.com/changes
- [3]: https://twitter.com/hashtag/genesiswp
+ [3]: https://twitter.com/hashtag/genesiswp?f=tweets
  [4]: https://www.facebook.com/groups/genesiswp/
  [5]: https://plus.google.com/communities/113206330486200023679
- [6]: https://www.linkedin.com/groups/WordPress-Genesis-Framework-Help-4743419/about
+ [6]: https://www.linkedin.com/groups/4743419
  [7]: https://www.calliaweb.co.uk/
  [8]: https://ukgenesis.co.uk/

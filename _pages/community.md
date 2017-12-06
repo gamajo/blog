@@ -119,7 +119,7 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 *   Named contributor for [PSR-5: PHPDoc][148]</a>
 
  [1]: https://rethink.fm/podcast/episode-13-passion-quality-gary-jones/
- [2]: https://ukgenesis.co.uk/podcasts/gary-jones-episode-22/
+ [2]: https://ukgenesis.co.uk/podcasts/gary-jones-episode-22
  [3]: https://officehours.fm/podcast/44-2/
  [4]: https://officehours.fm/podcast/20-2/
  [5]: https://ukgenesis.co.uk/podcasts

@@ -20,5 +20,5 @@ The [Floating Social Bar][1] plugin is a way for readers to easily share posts o
 [Move Floating Social Bar in Genesis plugin on GitHub][3]
 
  [1]: https://wordpress.org/plugins/floating-social-bar/
- [2]: https://developers.google.com/structured-data/testing-tool/
+ [2]: https://search.google.com/structured-data/testing-tool/u/0/
  [3]: https://github.com/GaryJones/move-floating-social-bar-in-genesis

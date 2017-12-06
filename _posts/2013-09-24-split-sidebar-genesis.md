@@ -32,4 +32,4 @@ Visually splitting the primary sidebar in a [Genesis Framework][1] child theme i
 
  [1]: https://genesis-theme-framework.com/
  [2]: https://briangardner.com/
- [3]: https://my.studiopress.com/tutorials/register-widget-area "StudioPress: How to Register a Widget Area"
+ [3]: https://my.studiopress.com/documentation/tutorials/genesis-tutorials/register-a-widget-area/

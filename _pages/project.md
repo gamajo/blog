@@ -4,7 +4,7 @@ post_title: Project Questionnaire
 author: Gary Jones
 post_excerpt: ""
 layout: page
-permalink: https://gamajo.com/project-questionnaire
+permalink: https://gamajo.com/project
 published: true
 post_date: 2018-01-14 16:45:31
 ---

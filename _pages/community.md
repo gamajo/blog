@@ -111,11 +111,11 @@ The Genesis and WordPress communities are where I've established myself. Here ar
 
 ## WordPress Meetup
 
-*   WordPress London co-organiser, occasional speaker and regular attendee.
+*   WordPress London co-organiser, [speaker][144] and regular attendee.
 
 ## PHP
 
-*   Named contributor for [PSR-5: PHPDoc][144]
+*   Named contributor for [PSR-5: PHPDoc][145]
 
  [1]: https://rethink.fm/podcast/episode-13-passion-quality-gary-jones/
  [2]: https://ukgenesis.co.uk/podcasts/gary-jones-episode-22
@@ -260,4 +260,5 @@ The Genesis and WordPress communities are where I've established myself. Here ar
  [141]: https://2018.london.wordcamp.org/
  [142]: https://2015.phpsouthcoast.co.uk/
  [143]: https://2017.phpsouthcoast.co.uk/
- [144]: https://github.com/php-fig/fig-standards/blob/master/proposed/phpdoc.md
+ [144]: https://wpldn.uk/speaker/gary-jones
+ [145]: https://github.com/php-fig/fig-standards/blob/master/proposed/phpdoc.md

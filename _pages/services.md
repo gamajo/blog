@@ -2,7 +2,11 @@
 ID: 5423
 post_title: 'Services: we’re your technical partner'
 author: Gary Jones
-post_excerpt: ""
+post_excerpt: >
+  You can count on Gamajo to guide you
+  through your WordPress projects – from
+  strategy and planning through to
+  development and maintenance.
 layout: page
 permalink: https://gamajo.com/services
 published: true

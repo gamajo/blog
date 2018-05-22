@@ -1,33 +1,48 @@
 ---
 ID: 5423
-post_title: Services
+post_title: 'Services: we’re your technical partner'
 author: Gary Jones
-post_date: 2016-06-30 09:29:35
 post_excerpt: ""
 layout: page
 permalink: https://gamajo.com/services
 published: true
+post_date: 2016-06-30 09:29:35
 ---
-With a small team of WordPress professionals on hand, we can provide a range of services for your website to improve your business.
+We craft quality code, make your ideas a reality, and let you focus on what you do best.
 
-## Small Projects
+Gamajo is the technical partner for your business, with the skillset and service offering to match. Here’s how we add strategic value through code.<section> 
 
-Your website is working pretty well, but there's that one thing that just annoys you. Maybe it's an issue with how the site looks on a particular screen size, or a bit of functionality that isn't quite working as intended.
+## Project discovery
 
-Whether it's a bug fix or a small new feature for an existing site, we can get that resolved quickly, so you can get on with making the most of your site for your business.
+Discovery is where we uncover all of the requirements of your project, and it’s a first opportunity to see how we can apply creative solutions to add strategic value to your project and business.
 
-Since the code is new to us (and we don't know how well maintained it is), small tasks are often charged at an hourly rate, starting at GBP £80 / USD $140 per hour.
+We’ll build out detailed specifics for the technical requirements, deadlines, and budget, and equip you with everything you need to confidently move forward on your project.
 
-## Medium Projects
+We have the full [detail of our discovery process here][1].</section> <section> 
 
-Have you got the need for a new brochure site? You've already worked through the business case, what the goals are, maybe even drawn up some designs and collated your content? If so, then we can handle building out that theme and required functionality.
+## Custom WordPress Development
 
-If everything is sufficiently defined (we'll ask you questions if it's not), we can provide a fixed-cost quote, so you'll know exactly what you're investing before the work starts.
+We’re code experts and specialise in high-quality WordPress development.
 
-## Large Projects
+We specialise in WordPress-based technical solutions which integrate with business-critical systems.
 
-Have you just got that great idea and funding, but need help in making it all come together? We can help with that too - we'll work with you to discover why you want a website, what the real goals of the site are, who the target audience is, and define the necessary steps to get the best end result for you.
+We carefully craft quality code which “just works” – and take the effort now to ensure easy adaptability and avoid the need for extensive maintenance later.
 
-Discovery and definition is a paid service of itself, but it will provide you with the base documentation you need to move forwards with your idea.
+From custom WordPress plugins to improving accessibility, we have a wide variety of WordPress expertise:
 
-[Contact us now](contact) to see how we can best help you and your business.
+*   **Custom plugins and integrations**: custom integrations with your business-critical systems. We integrate cutting-edge marketing tools with your existing systems, letting your team work more efficiently.
+*   **Performance optimisation**: maximise the efficiency of your systems. We eliminate bloated code, decrease page sizes and decrease response time – all while improving user experience.
+*   **Accessibility**: remove barriers to entry and comply with legal regulations with a website accessible to all users. Our team adhere to the latest, best-practice accessibility guidelines and can ensure your project does too.
+*   **Custom themes**: get a website that does exactly what you need it to. Our custom themes are built around your business goals, using accurate, well-documented code for longevity.
+*   **WooCommerce**: selling online? We build custom, scalable eCommerce stores and integrations using the globally trusted platform, WooCommerce.</section> <section> 
+
+## Design
+
+Increase conversions with user-focused, responsive design. Already have a design you need executing? Our developers will make it a reality, and ensure you have a website for the long term.</section> 
+
+**Ready to see how Gamajo can help you?** Get in touch to start a conversation about your next project.
+
+[Contact us and start a conversation][2]
+
+ [1]: /discovery
+ [2]: /contact
